@@ -1,0 +1,928 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2023-05-02T18:12:22.977411+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 29,
+    "enabled": true,
+    "entries": {
+      "1_codebook_film-dataset_festival-program.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2087549537e9cbdcb923e27ce2b0095c",
+        "ext": "csv",
+        "id": "4470bc29-3d26-4046-91c7-03cbe5c0b992",
+        "key": "1_codebook_film-dataset_festival-program.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/1_codebook_film-dataset_festival-program.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/1_codebook_film-dataset_festival-program.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 14898,
+        "storage_class": "L"
+      },
+      "1_data-scheme_film.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b3a41bc67a8e254d496ec9b289cf64a2",
+        "ext": "png",
+        "id": "f5bb06b2-1250-4399-84d2-499fed6797c9",
+        "key": "1_data-scheme_film.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/1_data-scheme_film.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:7887672:1_data-scheme_film.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:7887672:1_data-scheme_film.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:7887672/canvas/1_data-scheme_film.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:7887672:1_data-scheme_film.png/info.json",
+          "self": "https://zenodo.org/api/records/7887672/files/1_data-scheme_film.png"
+        },
+        "metadata": {
+          "height": 1770,
+          "width": 506
+        },
+        "mimetype": "image/png",
+        "size": 440989,
+        "storage_class": "L"
+      },
+      "1_film-dataset_festival-program_long.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5581e5da81028fcd42b89bb051060dec",
+        "ext": "csv",
+        "id": "c1628bb1-9a84-4473-8640-4873bb06a2f8",
+        "key": "1_film-dataset_festival-program_long.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/1_film-dataset_festival-program_long.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/1_film-dataset_festival-program_long.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 466231,
+        "storage_class": "L"
+      },
+      "1_film-dataset_festival-program_wide.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:25750089a3c7b0099727fc61065dcbab",
+        "ext": "csv",
+        "id": "8a4c512d-feb7-4126-86b8-aaed45e1ef39",
+        "key": "1_film-dataset_festival-program_wide.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/1_film-dataset_festival-program_wide.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/1_film-dataset_festival-program_wide.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 2494564,
+        "storage_class": "L"
+      },
+      "2_codebook_survey-dataset.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:23c2bd085d2cee4d3fe7dfd4fff21a2a",
+        "ext": "csv",
+        "id": "53679a3f-f114-4b99-a062-60dfd4d8f477",
+        "key": "2_codebook_survey-dataset.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/2_codebook_survey-dataset.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/2_codebook_survey-dataset.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 27694,
+        "storage_class": "L"
+      },
+      "2_data-scheme_survey.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7b0e53b7d20fce6ca4d5ab2e08d9d1f5",
+        "ext": "png",
+        "id": "2024b674-7500-4f05-9f64-fadb3f92d3eb",
+        "key": "2_data-scheme_survey.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/2_data-scheme_survey.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:7887672/canvas/2_data-scheme_survey.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png/info.json",
+          "self": "https://zenodo.org/api/records/7887672/files/2_data-scheme_survey.png"
+        },
+        "metadata": {
+          "height": 1768,
+          "width": 656
+        },
+        "mimetype": "image/png",
+        "size": 505241,
+        "storage_class": "L"
+      },
+      "2_survey-dataset_long-festivals_shared-consent.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4f5da1b7da6a0da07795ce6cc64e3324",
+        "ext": "csv",
+        "id": "a5fc57f0-775d-417c-b76c-045003317849",
+        "key": "2_survey-dataset_long-festivals_shared-consent.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/2_survey-dataset_long-festivals_shared-consent.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/2_survey-dataset_long-festivals_shared-consent.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 539583,
+        "storage_class": "L"
+      },
+      "2_survey-dataset_wide-no-festivals_shared-consent.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b97866c843d3c79a0cea78cb0a3bc57c",
+        "ext": "csv",
+        "id": "1779fd58-5cd8-4669-85ad-4a5955e595a2",
+        "key": "2_survey-dataset_wide-no-festivals_shared-consent.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/2_survey-dataset_wide-no-festivals_shared-consent.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/2_survey-dataset_wide-no-festivals_shared-consent.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 274986,
+        "storage_class": "L"
+      },
+      "3_codebook_imdb-dataset.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:30abbbcb1ee42a9f8aa39a0f5d31c733",
+        "ext": "csv",
+        "id": "c3ddc450-bcf1-4827-b817-f87aab99f34a",
+        "key": "3_codebook_imdb-dataset.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_codebook_imdb-dataset.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_codebook_imdb-dataset.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 20300,
+        "storage_class": "L"
+      },
+      "3_data-scheme_imdb.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6a7117347abf865b6c584e786fa89cca",
+        "ext": "png",
+        "id": "1ca54814-54b6-409c-8dbe-f4851df63d83",
+        "key": "3_data-scheme_imdb.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_data-scheme_imdb.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:7887672:3_data-scheme_imdb.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:7887672:3_data-scheme_imdb.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:7887672/canvas/3_data-scheme_imdb.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:7887672:3_data-scheme_imdb.png/info.json",
+          "self": "https://zenodo.org/api/records/7887672/files/3_data-scheme_imdb.png"
+        },
+        "metadata": {
+          "height": 1594,
+          "width": 2840
+        },
+        "mimetype": "image/png",
+        "size": 1520579,
+        "storage_class": "L"
+      },
+      "3_imdb-dataset_aka-titles_long.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:171237809265ddbbba45f9af3b9cb6df",
+        "ext": "csv",
+        "id": "a9565c90-cb98-48ae-a26f-042327a6b30e",
+        "key": "3_imdb-dataset_aka-titles_long.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_aka-titles_long.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_aka-titles_long.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 2699331,
+        "storage_class": "L"
+      },
+      "3_imdb-dataset_awards_long.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d07a67aa6974c85b7a453d9fbaa119b3",
+        "ext": "csv",
+        "id": "6e573f60-e99e-4b13-b165-92e54ae46d98",
+        "key": "3_imdb-dataset_awards_long.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_awards_long.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_awards_long.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 13295055,
+        "storage_class": "L"
+      },
+      "3_imdb-dataset_companies_long.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3c09dd14e5ea83a7534083d83db8a073",
+        "ext": "csv",
+        "id": "fad23ebf-0661-4a69-81ee-ef550ac34bfb",
+        "key": "3_imdb-dataset_companies_long.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_companies_long.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_companies_long.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 2996840,
+        "storage_class": "L"
+      },
+      "3_imdb-dataset_crew_long.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:17bf6c92f56223cc2ef4b9180d29d613",
+        "ext": "csv",
+        "id": "bcecdb96-c998-4fd1-8c56-958921d3bbcb",
+        "key": "3_imdb-dataset_crew_long.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_crew_long.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_crew_long.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 55499655,
+        "storage_class": "L"
+      },
+      "3_imdb-dataset_festival-runs_long.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1e5da6d29430da39c7be5c0d12887489",
+        "ext": "csv",
+        "id": "d6fa40af-6766-4f5c-8667-ea988bf97077",
+        "key": "3_imdb-dataset_festival-runs_long.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_festival-runs_long.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_festival-runs_long.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 10672172,
+        "storage_class": "L"
+      },
+      "3_imdb-dataset_general-info_wide.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c9b4055f74e503354fcd7e9a0aeff3af",
+        "ext": "csv",
+        "id": "a41ae1b4-3c75-4bd1-8f08-6e1390e3e819",
+        "key": "3_imdb-dataset_general-info_wide.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_general-info_wide.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_general-info_wide.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 565059,
+        "storage_class": "L"
+      },
+      "3_imdb-dataset_release-info_long.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c673d7c82ba42aa8754851d272a147c1",
+        "ext": "csv",
+        "id": "9f1d8643-edbb-45e9-b382-6b15b655aa4c",
+        "key": "3_imdb-dataset_release-info_long.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_release-info_long.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_release-info_long.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 2750876,
+        "storage_class": "L"
+      },
+      "3_imdb-dataset_websites_long.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a1c51777326df48469e051d074be30f5",
+        "ext": "csv",
+        "id": "ae505928-04ec-4c1a-b5d0-08387426895e",
+        "key": "3_imdb-dataset_websites_long.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_websites_long.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_imdb-dataset_websites_long.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 46679053,
+        "storage_class": "L"
+      },
+      "4_codebook_festival-library_dataset.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:872e4edc62c11af6009eb4449f501caa",
+        "ext": "csv",
+        "id": "00bbf391-6910-4bf5-ba82-5637561c5f84",
+        "key": "4_codebook_festival-library_dataset.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/4_codebook_festival-library_dataset.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/4_codebook_festival-library_dataset.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 27930,
+        "storage_class": "L"
+      },
+      "4_data-scheme_festival.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:76cf48b497cc190a891df34861e99453",
+        "ext": "png",
+        "id": "522d434f-2d00-4089-bf55-9c9803ecb31e",
+        "key": "4_data-scheme_festival.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/4_data-scheme_festival.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:7887672:4_data-scheme_festival.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:7887672:4_data-scheme_festival.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:7887672/canvas/4_data-scheme_festival.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:7887672:4_data-scheme_festival.png/info.json",
+          "self": "https://zenodo.org/api/records/7887672/files/4_data-scheme_festival.png"
+        },
+        "metadata": {
+          "height": 1796,
+          "width": 380
+        },
+        "mimetype": "image/png",
+        "size": 489792,
+        "storage_class": "L"
+      },
+      "4_festival-library_dataset_imdb-and-survey.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:dea839032f37a4d86010129705885315",
+        "ext": "csv",
+        "id": "a41585d1-f8c3-4d31-acd1-4cd824acfa77",
+        "key": "4_festival-library_dataset_imdb-and-survey.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/4_festival-library_dataset_imdb-and-survey.csv/content",
+          "self": "https://zenodo.org/api/records/7887672/files/4_festival-library_dataset_imdb-and-survey.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 1555751,
+        "storage_class": "L"
+      },
+      "r_1_unite_data.R": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6491799ee736bf43fe799e0f659dbc4d",
+        "ext": "r",
+        "id": "fecd8d07-fff0-42dc-863d-5fbc031a3ee3",
+        "key": "r_1_unite_data.R",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/r_1_unite_data.R/content",
+          "self": "https://zenodo.org/api/records/7887672/files/r_1_unite_data.R"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 7876,
+        "storage_class": "L"
+      },
+      "r_2_scrape_matches.R": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:10b277c82d3fdf72050104d2cee50165",
+        "ext": "r",
+        "id": "3d1bb660-1e17-4a04-8a97-8ac90e03a942",
+        "key": "r_2_scrape_matches.R",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/r_2_scrape_matches.R/content",
+          "self": "https://zenodo.org/api/records/7887672/files/r_2_scrape_matches.R"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 23405,
+        "storage_class": "L"
+      },
+      "r_3_matching.R": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:980647c98ebcf4d77b1d4286993c657e",
+        "ext": "r",
+        "id": "137203eb-b4e5-446d-ad45-569bd34fadfb",
+        "key": "r_3_matching.R",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/r_3_matching.R/content",
+          "self": "https://zenodo.org/api/records/7887672/files/r_3_matching.R"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 8209,
+        "storage_class": "L"
+      },
+      "r_4_scraping_functions.R": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bceae5debee1d695ff647f4bfd23b321",
+        "ext": "r",
+        "id": "e6695503-3b45-41ff-8534-45e226a3c055",
+        "key": "r_4_scraping_functions.R",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/r_4_scraping_functions.R/content",
+          "self": "https://zenodo.org/api/records/7887672/files/r_4_scraping_functions.R"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 14579,
+        "storage_class": "L"
+      },
+      "r_5a_extracting_info_sample.R": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:94395cff02dea643a0791d5faba40e87",
+        "ext": "r",
+        "id": "0f1c8798-2974-4ed2-a4b1-2ef2e5e319bf",
+        "key": "r_5a_extracting_info_sample.R",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/r_5a_extracting_info_sample.R/content",
+          "self": "https://zenodo.org/api/records/7887672/files/r_5a_extracting_info_sample.R"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 2907,
+        "storage_class": "L"
+      },
+      "r_5b_extracting_info_all.R": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3d0657114dd15084631a138e5dd5e101",
+        "ext": "r",
+        "id": "73e89349-f0ad-4025-b0ab-f18351b81276",
+        "key": "r_5b_extracting_info_all.R",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/r_5b_extracting_info_all.R/content",
+          "self": "https://zenodo.org/api/records/7887672/files/r_5b_extracting_info_all.R"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 3977,
+        "storage_class": "L"
+      },
+      "r_5c_extracting_info_skipped.R": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:397d6f274f4c538aae2f42012177061e",
+        "ext": "r",
+        "id": "0dea891c-cae1-4a8e-951a-e86d05e470ab",
+        "key": "r_5c_extracting_info_skipped.R",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/r_5c_extracting_info_skipped.R/content",
+          "self": "https://zenodo.org/api/records/7887672/files/r_5c_extracting_info_skipped.R"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 6811,
+        "storage_class": "L"
+      },
+      "r_check_logs.R": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ca1f716ba11e73b484f10f4968e13a14",
+        "ext": "r",
+        "id": "3eab2d5b-3ad1-4d1b-906f-1275e8cd6422",
+        "key": "r_check_logs.R",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/r_check_logs.R/content",
+          "self": "https://zenodo.org/api/records/7887672/files/r_check_logs.R"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 321,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 143604664
+  },
+  "id": "7887672",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/7887672/access",
+    "access_grants": "https://zenodo.org/api/records/7887672/access/grants",
+    "access_links": "https://zenodo.org/api/records/7887672/access/links",
+    "access_request": "https://zenodo.org/api/records/7887672/access/request",
+    "access_users": "https://zenodo.org/api/records/7887672/access/users",
+    "archive": "https://zenodo.org/api/records/7887672/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7887672/media-files-archive",
+    "communities": "https://zenodo.org/api/records/7887672/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7887672/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.7887672",
+    "draft": "https://zenodo.org/api/records/7887672/draft",
+    "file_modification": "https://zenodo.org/api/records/7887672/file-modification",
+    "files": "https://zenodo.org/api/records/7887672/files",
+    "latest": "https://zenodo.org/api/records/7887672/versions/latest",
+    "latest_html": "https://zenodo.org/records/7887672/latest",
+    "media_files": "https://zenodo.org/api/records/7887672/media-files",
+    "parent": "https://zenodo.org/api/records/7887671",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7887671",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7887671",
+    "parent_html": "https://zenodo.org/records/7887671",
+    "preview_html": "https://zenodo.org/records/7887672?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/7887672/request-deletion",
+    "requests": "https://zenodo.org/api/records/7887672/requests",
+    "reserve_doi": "https://zenodo.org/api/records/7887672/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/7887672",
+    "self_doi": "https://doi.org/10.5281/zenodo.7887672",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7887672",
+    "self_html": "https://zenodo.org/records/7887672",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7887672/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7887672/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:7887672:2_data-scheme_survey.png/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/7887672/versions"
+  },
+  "media_files": {
+    "count": 4,
+    "enabled": true,
+    "entries": {
+      "1_data-scheme_film.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "28651f58-ae3c-4ecb-b55c-6318dd84152b",
+        "key": "1_data-scheme_film.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/1_data-scheme_film.png.ptif/content",
+          "self": "https://zenodo.org/api/records/7887672/files/1_data-scheme_film.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "f5bb06b2-1250-4399-84d2-499fed6797c9",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "2_data-scheme_survey.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "ff242174-038a-4ee7-afd2-d73a187c9def",
+        "key": "2_data-scheme_survey.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/2_data-scheme_survey.png.ptif/content",
+          "self": "https://zenodo.org/api/records/7887672/files/2_data-scheme_survey.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "2024b674-7500-4f05-9f64-fadb3f92d3eb",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "3_data-scheme_imdb.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "5f8c1a3c-5f0b-46f8-b9ce-fc3b950abfa0",
+        "key": "3_data-scheme_imdb.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/3_data-scheme_imdb.png.ptif/content",
+          "self": "https://zenodo.org/api/records/7887672/files/3_data-scheme_imdb.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "1ca54814-54b6-409c-8dbe-f4851df63d83",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "4_data-scheme_festival.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "75f1ced2-fa5c-4d2f-92fb-560459cfa9df",
+        "key": "4_data-scheme_festival.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/7887672/files/4_data-scheme_festival.png.ptif/content",
+          "self": "https://zenodo.org/api/records/7887672/files/4_data-scheme_festival.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "522d434f-2d00-4089-bf55-9c9803ecb31e",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "additional_descriptions": [
+      {
+        "description": "The project \"Film Circulation in the International Festival Network and the Influence on Global Film Culture\" from which this dataset derives was funded by the German Federal Ministry of Education and Research (BMBF) under the grant number 01UL1710X.",
+        "type": {
+          "id": "notes",
+          "title": {
+            "de": "Anmerkungen",
+            "en": "Notes"
+          }
+        }
+      }
+    ],
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "Film University Babelsberg KONRAD WOLF"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Loist",
+          "given_name": "Skadi",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8299-4103",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Loist, Skadi",
+          "type": "personal"
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Samoilova",
+          "given_name": "Evgenia (Zhenya)",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3858-901X",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Samoilova, Evgenia (Zhenya)",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>Complete dataset of &ldquo;Film Circulation on the International Film Festival Network and the Impact on Global Film Culture&rdquo;</p>\n\n<p>&nbsp;</p>\n\n<p>A peer-reviewed data paper for this dataset is in review to be published in NECSUS_European Journal of Media Studies - an open access journal aiming at enhancing data transparency and reusability, and will be available from https://necsus-ejms.org/ and https://mediarep.org</p>\n\n<p>Please cite&nbsp; this when using the dataset.</p>\n\n<p><br>\nDetailed description of the dataset:</p>\n\n<p><strong>1 Film Dataset: Festival Programs</strong></p>\n\n<p>The Film Dataset consists a data scheme image file, a codebook and two dataset tables in csv format. &nbsp;</p>\n\n<p>The codebook (csv file &ldquo;1_codebook_film-dataset_festival-program&rdquo;) offers a detailed description of all variables within the Film Dataset. Along with the definition of variables it lists explanations for the units of measurement, data sources, coding and information on missing data. &nbsp;</p>\n\n<p>The csv file &ldquo;1_film-dataset_festival-program_long&rdquo; comprises a dataset of all films and the festivals, festival sections, and the year of the festival edition that they were sampled from. The dataset is structured in the long format, i.e. the same film can appear in several rows when it appeared in more than one sample festival. However, films are identifiable via their unique ID. &nbsp;</p>\n\n<p>The csv file &ldquo;1_film-dataset_festival-program_wide&rdquo; consists of the dataset listing only unique films (n=9,348). The dataset is in the wide format, i.e. each row corresponds to a unique film, identifiable via its unique ID. For easy analysis, and since the overlap is only six percent, in this dataset the variable sample festival (fest) corresponds to the first sample festival where the film appeared. For instance, if a film was first shown at Berlinale (in February) and then at Frameline (in June of the same year), the sample festival will list &ldquo;Berlinale&rdquo;.&nbsp; This file includes information on unique and IMDb IDs, the film title, production year, length, categorization in length, production countries, regional attribution, director names, genre attribution, the festival, festival section and festival edition the film was sampled from, and information whether there is festival run information available through the IMDb data.&nbsp; &nbsp;</p>\n\n<p><br>\n<strong>2 Survey Dataset</strong></p>\n\n<p>The Survey Dataset consists of a data scheme image file, a codebook and two dataset tables in csv format.</p>\n\n<p>The codebook &ldquo;2_codebook_survey-dataset&rdquo; includes coding information for both survey datasets.&nbsp; It lists the definition of the variables or survey questions (corresponding to Samoilova/Loist 2019), units of measurement, data source, variable type, range and coding, and information on missing data.&nbsp; &nbsp;</p>\n\n<p>The csv file &ldquo;2_survey-dataset_long-festivals_shared-consent&rdquo; consists of a subset (n=161) of the original survey dataset (n=454), where respondents provided festival run data for films (n=206) and gave consent to share their data for research purposes. This dataset consists of the festival data in a long format, so that each row corresponds to the festival appearance of a film.</p>\n\n<p>The csv file &ldquo;2_survey-dataset_wide-no-festivals_shared-consent&rdquo; consists of a subset (n=372) of the original dataset (n=454) of survey responses corresponding to sample films. It includes data only for those films for which respondents provided consent to share their data for research purposes. This dataset is shown in wide format of the survey data, i.e. information for each response corresponding to a film is listed in one row. This includes data on film IDs, film title, survey questions regarding completeness and availability of provided information, information on number of festival screenings, screening fees, budgets, marketing costs, market screenings, and distribution. As the file name suggests, no data on festival screenings is included in the wide format dataset. &nbsp;</p>\n\n<p><br>\n<strong>3 IMDb &amp; Scripts</strong></p>\n\n<p>The IMDb dataset consists of a data scheme image file, one codebook and eight datasets, all in csv format.&nbsp; It also includes the R scripts that we used for scraping and matching.</p>\n\n<p>The codebook &ldquo;3_codebook_imdb-dataset&rdquo; includes information for all IMDb datasets. This includes ID information and their data source, coding and value ranges, and information on missing data.</p>\n\n<p>The csv file &ldquo;3_imdb-dataset_aka-titles_long&rdquo; contains film title data in different languages scraped from IMDb in a long format, i.e. each row corresponds to a title in a given language.</p>\n\n<p>The csv file &ldquo;3_imdb-dataset_awards_long&rdquo; contains film award data in a long format, i.e. each row corresponds to an award of a given film.</p>\n\n<p>The csv file &ldquo;3_imdb-dataset_companies_long&rdquo; contains data on production and distribution companies of films. The dataset is in a long format, so that each row corresponds to a particular company of a particular film.</p>\n\n<p>The csv file &ldquo;3_imdb-dataset_crew_long&rdquo; contains data on names and roles of crew members in a long format, i.e. each row corresponds to each crew member. The file also contains binary gender assigned to directors based on their first names using the GenderizeR application.</p>\n\n<p>The csv file &ldquo;3_imdb-dataset_festival-runs_long&rdquo; contains festival run data scraped from IMDb in a long format, i.e. each row corresponds to the festival appearance of a given film. The dataset does not include each film screening, but the first screening of a film at a festival within a given year. The data includes festival runs up to 2019.</p>\n\n<p>The csv file &ldquo;3_imdb-dataset_general-info_wide&rdquo; contains general information about films such as genre as defined by IMDb, languages in which a film was shown, ratings, and budget. The dataset is in wide format, so that each row corresponds to a unique film.</p>\n\n<p>The csv file &ldquo;3_imdb-dataset_release-info_long&rdquo; contains data about non-festival release (e.g., theatrical, digital, tv, dvd/blueray). The dataset is in a long format, so that each row corresponds to a particular release of a particular film.</p>\n\n<p>The csv file &ldquo;3_imdb-dataset_websites_long&rdquo; contains data on available websites (official websites, miscellaneous, photos, video clips). The dataset is in a long format, so that each row corresponds to a website of a particular film.</p>\n\n<p>The dataset includes 8 text files containing the script for webscraping. They were written using the R-3.6.3 version for Windows.</p>\n\n<p>The R script &ldquo;r_1_unite_data&rdquo; demonstrates the structure of the dataset, that we use in the following steps to identify, scrape, and match the film data.</p>\n\n<p>The R script &ldquo;r_2_scrape_matches&rdquo; reads in the dataset with the film characteristics described in the &ldquo;r_1_unite_data&rdquo; and uses various R packages to create a search URL for each film from the core dataset on the IMDb website. The script attempts to match each film from the core dataset to IMDb records by first conducting an advanced search based on the movie title and year, and then potentially using an alternative title and a basic search if no matches are found in the advanced search. The script scrapes the title, release year, directors, running time, genre, and IMDb film URL from the first page of the suggested records from the IMDb website. The script then defines a loop that matches (including matching scores) each film in the core dataset with suggested films on the IMDb search page. Matching was done using data on directors, production year (+/- one year), and title, a fuzzy matching approach with two methods: &ldquo;cosine&rdquo; and &ldquo;osa.&rdquo; where the cosine similarity is used to match titles with a high degree of similarity, and the OSA algorithm is used to match titles that may have typos or minor variations.</p>\n\n<p>The script &ldquo;r_3_matching&rdquo; creates a dataset with the matches for a manual check. Each pair of films (original film from the core dataset and the suggested match from the IMDb website was categorized in the following five categories: a) 100% match: perfect match on title, year, and director; b) likely good match; c) maybe match; d) unlikely match; and e) no match). The script also checks for possible doubles in the dataset and identifies them for a manual check.</p>\n\n<p>The script &ldquo;r_4_scraping_functions&rdquo; creates a function for scraping the data from the identified matches (based on the scripts described above and manually checked). These functions are used for scraping the data in the next script.</p>\n\n<p>The script &ldquo;r_5a_extracting_info_sample&rdquo; uses the function defined in the &ldquo;r_4_scraping_functions&rdquo;, in order to scrape the IMDb data for the identified matches. This script does that for the first 100 films, to check, if everything works. Scraping for the entire dataset took a few hours. Therefore, a test with a subsample of 100 films is advisable.</p>\n\n<p>The script &ldquo;r_5b_extracting_info_all&rdquo; extracts the data for the entire dataset of the identified matches.</p>\n\n<p>The script &ldquo;r_5c_extracting_info_skipped&rdquo; checks the films with missing data (where data was not scraped) and tried to extract data one more time to make sure that the errors were not caused by disruptions in the internet connection or other technical issues.</p>\n\n<p>The script &ldquo;r_check_logs&rdquo; is used for troubleshooting and tracking the progress of all of the R scripts used. It gives information on the amount of missing values and errors.</p>\n\n<p><br>\n<strong>4 Festival Library Dataset</strong></p>\n\n<p>The Festival Library Dataset consists of a data scheme image file, one codebook and one dataset, all in csv format.</p>\n\n<p>The codebook (csv file &ldquo;4_codebook_festival-library_dataset&rdquo;) offers a detailed description of all variables within the Library Dataset.&nbsp; It lists the definition of variables, such as location and festival name, and festival categories, units of measurement, data sources and coding and missing data. &nbsp;</p>\n\n<p>The csv file &ldquo;4_festival-library_dataset_imdb-and-survey&rdquo; contains data on all unique festivals collected from both IMDb and survey sources. This dataset appears in wide format, all information for each festival is listed in one row. This includes data on festival ID, sources, festival name and alternatives, location data for country, region and city, data on award recognition, founding year, whether a festival has a specialization and if so the ascribed festival categories. &nbsp;</p>\n\n<p>&nbsp;</p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2023-05-02",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.3581359",
+        "relation_type": {
+          "id": "issupplementedby",
+          "title": {
+            "de": "Wird erg\u00e4nzt durch",
+            "en": "Is supplemented by"
+          }
+        },
+        "resource_type": {
+          "id": "other",
+          "title": {
+            "de": "Sonstige",
+            "en": "Other"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.34894/TKAMVJ",
+        "relation_type": {
+          "id": "issupplementedby",
+          "title": {
+            "de": "Wird erg\u00e4nzt durch",
+            "en": "Is supplemented by"
+          }
+        },
+        "resource_type": {
+          "id": "publication-conferencepaper",
+          "title": {
+            "de": "Konferenzbeitrag",
+            "en": "Conference paper"
+          }
+        },
+        "scheme": "handle"
+      }
+    ],
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "dataset"
+      },
+      {
+        "subject": "film festival research"
+      },
+      {
+        "subject": "film circulation"
+      },
+      {
+        "subject": "Berlinale"
+      },
+      {
+        "subject": "Cannes"
+      },
+      {
+        "subject": "Clermont-Ferrand"
+      },
+      {
+        "subject": "IDFA \u2013 International Documentary Film Festival Amsterdam"
+      },
+      {
+        "subject": "Frameline San Francisco International LGBTQ+ Film Festival"
+      },
+      {
+        "subject": "TIFF - Toronto International Film Festival"
+      },
+      {
+        "subject": "cultural analytics"
+      },
+      {
+        "subject": "Film Festivals"
+      },
+      {
+        "subject": "data set"
+      }
+    ],
+    "title": "Film Circulation dataset"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "74128"
+      }
+    },
+    "communities": {
+      "default": "c03a6b85-3a4b-4eeb-ae63-d8bea4b463f7",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "open",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2023-05-02T17:32:13.673937+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "c03a6b85-3a4b-4eeb-ae63-d8bea4b463f7",
+          "links": {},
+          "metadata": {
+            "curation_policy": "",
+            "page": "",
+            "title": "Film Festivals and Film Circulation"
+          },
+          "revision_id": 0,
+          "slug": "film-circulation",
+          "updated": "2023-05-02T17:32:13.984938+00:00"
+        }
+      ],
+      "ids": [
+        "c03a6b85-3a4b-4eeb-ae63-d8bea4b463f7"
+      ]
+    },
+    "id": "7887671",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.7887671",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.7887672",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:7887672",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 9,
+  "stats": {
+    "all_versions": {
+      "data_volume": 30344298220.0,
+      "downloads": 5948,
+      "unique_downloads": 5491,
+      "unique_views": 1186,
+      "views": 1288
+    },
+    "this_version": {
+      "data_volume": 30344253526.0,
+      "downloads": 5945,
+      "unique_downloads": 5488,
+      "unique_views": 1182,
+      "views": 1284
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2024-07-12T04:40:40.739703+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}

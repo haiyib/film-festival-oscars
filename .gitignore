@@ -1,0 +1,8 @@
+# OS junk
+.DS_Store
+
+# Scraper debug dumps (regenerated on each run)
+data/scraped/debug_page.html
+
+# Jupyter
+.ipynb_checkpoints/
